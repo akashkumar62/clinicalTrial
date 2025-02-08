@@ -1,0 +1,49 @@
+{
+  "hash": "3d53a07a",
+  "configHash": "550e19c7",
+  "lockfileHash": "bb991c89",
+  "browserHash": "66a0ae0c",
+  "optimized": {
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "a788461a",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "fb260f17",
+      "needsInterop": true
+    },
+    "react-router-dom": {
+      "src": "../../node_modules/react-router-dom/dist/index.mjs",
+      "file": "react-router-dom.js",
+      "fileHash": "99fff5b7",
+      "needsInterop": false
+    },
+    "zustand": {
+      "src": "../../node_modules/zustand/esm/index.mjs",
+      "file": "zustand.js",
+      "fileHash": "0ce93654",
+      "needsInterop": false
+    },
+    "axios": {
+      "src": "../../node_modules/axios/index.js",
+      "file": "axios.js",
+      "fileHash": "db9e62ff",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-TKHB4QMX": {
+      "file": "chunk-TKHB4QMX.js"
+    },
+    "chunk-YLDSBLSF": {
+      "file": "chunk-YLDSBLSF.js"
+    },
+    "chunk-DC5AMYBS": {
+      "file": "chunk-DC5AMYBS.js"
+    }
+  }
+}
